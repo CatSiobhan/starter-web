@@ -10,6 +10,10 @@ Sample website with plenty of files for demos
 
 Adding an introduction
 
+## How to Contribute
+
+Please fork this repository and then issue Pull Requests
+
 ## Conclusion
 
 Adding a conclusion
