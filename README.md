@@ -8,4 +8,8 @@ Sample website with plenty of files for demos
 
 ## Introduction
 
+Adding an introduction
+
 ## Conclusion
+
+Adding a conclusion
