@@ -13,3 +13,7 @@ Adding an introduction
 ## Conclusion
 
 Adding a conclusion
+
+##Copyright
+
+2014 Git.Training
