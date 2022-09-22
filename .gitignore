@@ -2,3 +2,4 @@ ignore-test.txt
 *.log
 log/
 *.orig
+simple_*
