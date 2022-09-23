@@ -4,6 +4,7 @@
 # TEAM
 
     Cat Thomson		Data Analyst	cthomson@git.com
+	new member
 
 # THANKS
 
